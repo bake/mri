@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	_ "github.com/bakerolls/mri"
+	_ "github.com/bake/mri"
 )
 
 func main() {
